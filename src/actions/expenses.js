@@ -82,3 +82,5 @@ export const startSetExpenses = () => {
   });
   };
 };
+
+console.log(expenses);
